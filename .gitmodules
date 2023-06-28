@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "scapesClassification"]
 	path = scapesClassification
 	url = https://github.com/ghtaranto/scapesclassification
-	shallow = true
-	registered = true
